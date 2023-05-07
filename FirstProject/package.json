@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.13",
     "@ng-bootstrap/ng-bootstrap": "^5.1.4",
     "angular-4-data-table": "^0.4.6",
-    "angular-datatables": "^8.0.0",
+    "angular-datatables": "^15.0.1",
     "angularfire2": "^5.2.3",
     "bootstrap": "^4.3.1",
     "datatables.net": "^1.10.20",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.18",
-    "@angular/cli": "~8.3.18",
+    "@angular/cli": "~16.0.0",
     "@angular/compiler-cli": "~8.2.13",
     "@angular/language-service": "~8.2.13",
     "@types/datatables.net": "^1.10.18",
